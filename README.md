@@ -39,6 +39,8 @@
 2. https://github.com/Prabhjot042001 <img src="https://img.shields.io/github/followers/Prabhjot042001?label=Follow&style=social">
 
 **FILE DESCRIPTION:**
-- ***RPS Game.ipynb***: Game Model prepared using Image Recording and Processing approach. The Players show their respective gestures in the frame and the gestures are recorded in image format. Analysis is done on the recorded images and the winner is declared respectively. (The model is completed, GUI is being prepared for the same)
+
+-***GAMEGUI.py***: The GUI to display instructions and how to play the game
+- ***FINALGAME.py***: Game Model prepared using Image Recording and Processing approach. The Players show their respective gestures in the frame and the gestures are recorded in image format. Analysis is done on the recorded images and the winner is declared respectively. (The model is completed, GUI is being prepared for the same)
 
 
